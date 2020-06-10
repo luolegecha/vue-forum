@@ -1,0 +1,22 @@
+/*--全局样式表--*/
+html,
+body,
+#app {
+    height:100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.el-breadcrumb {
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+.el-input {
+    margin-right:10px;
+}
+h2 {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 10px;
+    opacity: 0.7;
+}
